@@ -2,6 +2,8 @@
 
 ### Hi there, this is an ```open-source``` repository that contains the React Custom Hooks we need in day-to-day React projects. <br><br>
 
+![alt text](cover.png)
+
 ### Outline
 - React JS Custom Hooks List
 - How to contribute this repository? <br><br>
