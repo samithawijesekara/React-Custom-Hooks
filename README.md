@@ -10,8 +10,8 @@
 
 | **Hook No** | **Hook Name**  | **Usage** |
 | --- | ------------------ | ---------------------------------------------------------------------------------------------- |
-| 01. | [_useDocumentTitle_](custom hooks/useDocumentTitle.js) | By using this hook can add a specific title to the document                                    |
-| 02. | [_useScrollToTop_](custom hooks/useDocumentTitle.js)   | By using this hook can scroll the page always to the top when the page/component will mounting |
+| 01. | [_useDocumentTitle_](customHooks/useDocumentTitle.js) | By using this hook can add a specific title to the document                                    |
+| 02. | [_useScrollToTop_](customHooks/useDocumentTitle.js)   | By using this hook can scroll the page always to the top when the page/component will mounting |
 
 <br>
 
