@@ -19,6 +19,6 @@
 #### Follow the guide:
 1. ```Fork``` the repository
 2. ```Clone``` the repository
-3. Add your React Custom Hooks into the ```custom hooks``` folder
+3. Add your React Custom Hooks into the ```customHooks``` folder
 4. Add your React Custom Hooks details into the ```README.md``` file in correct way
 5. Push the changes and make the ```pull request``` to the ```main repository```
